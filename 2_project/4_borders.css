@@ -1,0 +1,17 @@
+.border-1 {
+/* border-width: 2px;
+border-style: dashed;
+border-color: black; */
+border: 2px solid black;
+border-radius: 8px;
+}
+.border-2 {
+border-bottom: 4px solid black;
+border-right: 15px solid red  ;
+border-bottom-right-radius: 5%;
+}
+.border-3 {
+border-left: 15px solid blue;
+background: rgb(155, 155, 253);
+padding-left: 15px;
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body {
+    /* font-family: 'Oswald', sans-serif; */
+    /* font-size: 32px; */
+    line-height: 30px;
+    font-weight: 400;
+    /* text-decoration: line-through; */
+    /* font-style: normal; */
+    /* letter-spacing: 2px; */
+    font: normal 20px 'Oswald', sans-serif;
+    word-spacing: normal;
+
+}
+.css p {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold
+}

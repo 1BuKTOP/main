@@ -1,0 +1,33 @@
+/* TAG NAME */
+h3 {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    border: 2px solid rgb(255, 255, 255);
+}
+body {
+background-color: rgb(243, 243, 243);
+}
+/* CLASS */
+.card {
+    padding: 15px;
+    background-color: aliceblue;
+}
+.html {
+    background-color: rgb(211, 103, 14);
+    color: white;
+}
+.css {
+    background-color: rgb(64, 64, 253);
+    color: white;
+}
+#header {
+    background: rgb(110, 156, 153);
+    padding: 15px;
+
+}
+.card p {
+    font-size: 18px;
+}
+#header,.card {
+    margin-bottom: 10px;
+}

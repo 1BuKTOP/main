@@ -1,0 +1,50 @@
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.list li {
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+}
+.table {
+    width: 100%;
+}
+.table td {
+    text-align:center;
+    padding-bottom: 10px;
+}
+.table td:hover {
+    background:rgb(196, 249, 253)
+}
+.table tr:nth-child(even)/*odd нечетные*/{
+    background: #eee;
+}
+.table td:nth-child(2){
+    background:greenyellow;
+}
+.table td:nth-child(4){
+    background:rgb(255, 133, 225)
+}
+.navbar {
+    background:rgb(187, 187, 255);
+    padding:0px 20px;
+    margin-bottom: 10px;
+}
+.navbar ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    display:flex;
+    padding: 0 20px;
+}
+.navbar ul li {
+    margin-right: 20px;
+    padding: 20px;
+}
+.navbar ul li:hover {
+    background: rgb(97, 125, 250)
+}
+.navbar ul li:last-child {
+    margin-right: 0px;
+}
